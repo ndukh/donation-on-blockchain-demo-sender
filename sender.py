@@ -1,6 +1,5 @@
 #  encoding: utf-8
 # based on https://habr.com/post/316666/ by @saluev
-
 import configparser
 import random
 
