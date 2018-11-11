@@ -1,6 +1,6 @@
 # TelegramSender
 
-Telegram-bot interface, which allows to send a virtual donation to a random demo fund and get its ID.
+[Telegram-bot](https://t.me/csenbot) interface, which allows to send a virtual donation to a random demo fund and get its ID.
 
 It uses the [donation-on-blockhain-api](https://github.com/AplusD/dontation-on-blockchain-api)
 
